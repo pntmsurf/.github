@@ -11,7 +11,7 @@ Distributed proxy service with centralized management and scalable edge nodes.
 
 ---
 
-## 🏗 High-Level Architecture
+## 🏗️ High-Level Architecture
 
 The system architecture is based on the **Separation of Control and Data Plane** principle. This decoupling allows for a highly resilient central management system and horizontally scalable edge nodes.
 
