@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/logo.png" alt="The Beyond Logo" />
+    <img src="../assets/logo.png" alt="The Beyond Logo" />
 </p>
 
 Distributed proxy service with centralized management and scalable edge nodes.
